@@ -1,0 +1,28 @@
+SELECTION SORT
+Time: 1.8835067749023438e-05
+Compares: 36
+Swaps: 9
+Elements:
+81 31 yellow ikea
+54 23 black ikea
+45 12 green ikea
+44 59 yellow ikea
+34 12 brown ikea
+23 23 red ikea
+13 42 red ikea
+10 33 blue ikea
+10 91 blue ikea
+MERGE SORT
+Time: 3.4809112548828125e-05
+Compares: 19
+Swaps: 29
+Elements:
+45 12 green ikea
+34 12 brown ikea
+54 23 black ikea
+23 23 red ikea
+81 31 yellow ikea
+10 33 blue ikea
+13 42 red ikea
+44 59 yellow ikea
+10 91 blue ikea
